@@ -9,6 +9,18 @@ Kalkulator adalah aplikasi menghitung yang membutuhkan dua bilangan untuk menjal
 3. Start Apache web server
 4. Buka [localhost](http://localhost/Tugas6_NizarAhmadBaihaqi.php)
 
+## Install menggunakan [chocolatey](https://chocolatey.org/)
+
+XAMPP 8.0 8.0.7
+```bash
+> choco install xampp-80
+```
+
+XAMPP 7.4 7.4.20
+```bash
+> choco install xampp-74
+```
+
 ## Penggunaan
 
 Isi bilangan ke 1 dan ke 2 kemudian enter atau klik kirim

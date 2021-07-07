@@ -13,6 +13,10 @@ Kalkulator adalah aplikasi menghitung yang membutuhkan dua bilangan untuk menjal
 
 Isi bilangan ke 1 dan ke 2 kemudian enter atau klik kirim
 
+## Github
+
+[nqrz/kalkulator](https://github.com/nqrz/kalkulator)
+
 ## Kontribusi
 
 Silahkan Pull Request. Jika ingin mengubah besar besaran, buka issue dahulu untuk mendiskusikan apa yang akan diubah.

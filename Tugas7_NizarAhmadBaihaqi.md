@@ -4,7 +4,7 @@ Kalkulator adalah aplikasi menghitung yang membutuhkan dua bilangan untuk menjal
 
 ## Cara menjalankannya
 
-1. Gunakan XAMPP untuk host servernya
+1. Gunakan [XAMPP](https://www.apachefriends.org/download.html) untuk host servernya
 2. Copy file Tugas6_NizarAhmadBaihaqi.php dan Tugas6_NizarAhmadBaihaqi.css ke htdocs
 3. Start Apache web server
 4. Buka [localhost](http://localhost/Tugas6_NizarAhmadBaihaqi.php)
